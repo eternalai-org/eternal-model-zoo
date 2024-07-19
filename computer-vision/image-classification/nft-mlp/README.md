@@ -3,9 +3,9 @@
 A simple multilayer perceptron model to classify between 4 popular NFT collections:
 
 - [Cryptoadz](https://www.cryptoadz.io/)
-- Cryptopunkz
-- Moonbirds
-- Nouns
+- [Cryptopunkz](https://cryptopunks.app/)
+- [Moonbirds](https://www.proof.xyz/moonbirds)
+- [Nouns](https://nouns.wtf/)
 
 ## Architecture
 
