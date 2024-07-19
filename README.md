@@ -16,4 +16,5 @@ To deploy these models on-chain, see the [EternalAI](https://github.com/eternala
 | [catdog-cnn](computer-vision/image-classification/catdog-cnn) | [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) | 0.263 | 3 |
 | [notMnist](computer-vision/image-classification/notMnist) | [notMNIST](https://www.kaggle.com/datasets/lubaroli/notmnist) | 0.116 | 3 |
 | [cifar10-cnn](computer-vision/image-classification/cifar10-cnn) | [CIFAR-10](https://paperswithcode.com/dataset/cifar-10) | 0.060 | 3 |
+| [fashion-mnist](computer-vision/image-classification/fashion-mnist) | [Fashion-MNIST](https://www.tensorflow.org/datasets/catalog/fashion_mnist#:~:text=Fashion%2DMNIST%20is%20a%20dataset,on%20Papers%20With%20Code%20north_east) | 0.116 | 3 |
 
