@@ -1,6 +1,6 @@
 # nft-mlp
 
-A simple multilayer perceptron model to classify between 4 popular NFT collections:
+A simple multilayer perceptron model that can classify between 4 popular NFT collections:
 
 - [Cryptoadz](https://www.cryptoadz.io/)
 - [Cryptopunkz](https://cryptopunks.app/)
@@ -26,5 +26,6 @@ A simple multilayer perceptron model to classify between 4 popular NFT collectio
 │ dense_3 (Dense)                      │ (None, 4)                   │              84 │
 └──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
 
+Input shape: (10, 10, 3)
 Total params: 20,834 (81.39 KB)
 ```

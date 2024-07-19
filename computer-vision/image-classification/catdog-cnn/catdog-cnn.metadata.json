@@ -1,0 +1,39 @@
+{
+    "input": {
+      "type": "image",
+      "transforms": [
+        {
+          "type": "grayscale",
+          "parameters": {
+            "enabled": false
+          }
+        },
+        {
+          "type": "resize",
+          "parameters": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "type": "normalize",
+          "parameters": {
+            "method": "minmax",
+            "range": {
+              "min": 0,
+              "max": 1
+            }
+          }
+        }
+      ]
+    },
+    "output": {
+      "type": "classification",
+      "parameters": {
+        "labels": [
+          "cat",
+          "dog"
+        ]
+      }
+    }
+  }
